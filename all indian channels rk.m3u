@@ -1,0 +1,419 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SONYLIV-LIVE",SONY HD
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009246
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SONYLIV-LIVE",SAB HD
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009248
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONYLIV-LIVE",SONY MARATHI
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009259
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="SONYLIV-LIVE",SONY BBC EARTH
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009252
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SONYLIV-LIVE",SONY PAL
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009273
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="SONYLIV-LIVE",SONY AATH
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009255
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SONYLIV-LIVE",SONY YAY
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000001971
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SONYLIV-LIVE",SONY MAX HD
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009247
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="SONYLIV-LIVE",SONY MAX
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009249
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SONYLIV-LIVE",SONY WAH
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009253
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SONYLIV-LIVE",SONY MAX2
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000044878
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONYLIV-LIVE",SONY PIX HD
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009258
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SONYLIV-LIVE",SONY SIX HD
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009275
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SONYLIV-LIVE",SONY TEN 1 HD
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009276
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SONYLIV-LIVE",SONY TEN 2 HD
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009277
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SONYLIV-LIVE",SONY TEN 3 HD
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009278
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="SONYLIV-LIVE",SONY TEN 4 HD
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000119186
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SONYLIV-LIVE",SONY SIX
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009281
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SONYLIV-LIVE",SONY TEN 1
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009280
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SONYLIV-LIVE",SONY TEN 2
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009279
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SONYLIV-LIVE",SONY TEN 3
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000009283
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="SONYLIV-LIVE",SONY TEN 4
+http://193.161.193.99:49103/trial/sonyliv.php?cid=1000119187
+
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",24 Ghanta
+http://193.161.193.99:49103/trial/zlive.php?c=24ghantatv 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee News
+http://193.161.193.99:49103/trial/zlive.php?c=zeenews 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Polimer News
+http://193.161.193.99:49103/trial/zlive.php?c=203 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Putiya Thalamurai
+http://193.161.193.99:49103/trial/zlive.php?c=220 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Vendhar TV
+http://193.161.193.99:49103/trial/zlive.php?c=306 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",TV9 Telugu
+http://193.161.193.99:49103/trial/zlive.php?c=258
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",TV5 News
+http://193.161.193.99:49103/trial/zlive.php?c=222 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Punjab Haryana Himachal Pradesh
+http://193.161.193.99:49103/trial/zlive.php?c=zeepunjabharyanahima 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Saam TV
+http://193.161.193.99:49103/trial/zlive.php?c=270 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",TV9 Marathi
+http://193.161.193.99:49103/trial/zlive.php?c=257 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Aaj Tak
+http://193.161.193.99:49103/trial/zlive.php?c=aajtak 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",India TV
+http://193.161.193.99:49103/trial/zlive.php?c=282 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",TV9 Bharatvarsh
+http://193.161.193.99:49103/trial/zlive.php?c=251 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Busines
+http://193.161.193.99:49103/trial/zlive.php?c=zeebusiness 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",TV9 Gujarati
+http://193.161.193.99:49103/trial/zlive.php?c=260 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee 24 Kalak
+http://193.161.193.99:49103/trial/zlive.php?c=zee24kalak 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",TV9 Kannada
+http://193.161.193.99:49103/trial/zlive.php?c=259 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Suvarna News
+http://193.161.193.99:49103/trial/zlive.php?c=201 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",News24
+http://193.161.193.99:49103/trial/zlive.php?c=206 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",India Today
+http://193.161.193.99:49103/trial/zlive.php?c=indiatoday 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Tez
+http://193.161.193.99:49103/trial/zlive.php?c=255 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee 24 Taas
+http://193.161.193.99:49103/trial/zlive.php?c=zee24taas 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Hindustan
+http://193.161.193.99:49103/trial/zlive.php?c=zeehindustan 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Bihar Jharkhand
+http://193.161.193.99:49103/trial/zlive.php?c=zeebiharjharkhand 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",WION
+http://193.161.193.99:49103/trial/zlive.php?c=wion 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",E24
+http://193.161.193.99:49103/trial/zlive.php?c=207 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Odisha
+http://193.161.193.99:49103/trial/zlive.php?c=zeekalinganews 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Rajasthan News
+http://193.161.193.99:49103/trial/zlive.php?c=zeerajasthannews 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",News State Uttar Pradesh Uttrakhand
+http://193.161.193.99:49103/trial/zlive.php?c=171 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zing
+http://193.161.193.99:49103/trial/zlive.php?c=zing 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Big Magic
+http://193.161.193.99:49103/trial/zlive.php?c=bigmagic_1786965389 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee TV HD
+http://193.161.193.99:49103/trial/zlive.php?c=zeetvhd 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",&TV HD
+http://193.161.193.99:49103/trial/zlive.php?c=tvhd_0 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Marathi HD
+http://193.161.193.99:49103/trial/zlive.php?c=zeemarathi
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Yuva
+http://193.161.193.99:49103/trial/zlive.php?c=zeeyuva 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Café HD
+http://193.161.193.99:49103/trial/zlive.php?c=zeecafehd 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Madhya Pradesh Chhattisgarh
+http://193.161.193.99:49103/trial/zlive.php?c=zeemadhyapradeshchat 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Kannada
+http://193.161.193.99:49103/trial/zlive.php?c=zeekannada 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Bangla
+http://193.161.193.99:49103/trial/zlive.php?c=zeebangla 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Anmol
+http://193.161.193.99:49103/trial/zlive.php?c=zeeanmol 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Cinema HD
+http://193.161.193.99:49103/trial/zlive.php?c=zeecinemahd 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",&Pictures HD
+http://193.161.193.99:49103/trial/zlive.php?c=tvpictureshd 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Talkies
+http://193.161.193.99:49103/trial/zlive.php?c=zeetalkies 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Telugu
+http://193.161.193.99:49103/trial/zlive.php?c=zeetelugu 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Bangla Cinema
+http://193.161.193.99:49103/trial/zlive.php?c=zeebanglacinema 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Tamil
+http://193.161.193.99:49103/trial/zlive.php?c=zeetamil 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Anmol Cinema
+http://193.161.193.99:49103/trial/zlive.php?c=zeeanmolcinema 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Bollywood
+http://193.161.193.99:49103/trial/zlive.php?c=zeeclassic 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Cinema
+http://193.161.193.99:49103/trial/zlive.php?c=zeecinema 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",&Pictures
+http://193.161.193.99:49103/trial/zlive.php?c=pictures 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Action
+http://193.161.193.99:49103/trial/zlive.php?c=zeeaction 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Keralam HD
+http://193.161.193.99:49103/trial/zlive.php?c=129 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Punjabi
+http://193.161.193.99:49103/trial/zlive.php?c=215 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Chardikla Time TV
+http://193.161.193.99:49103/trial/zlive.php?c=chardiklatimetvtimet 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Big Ganga
+http://193.161.193.99:49103/trial/zlive.php?c=bigganga 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD News
+http://193.161.193.99:49103/trial/zlive.php?c=ddnews 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD India
+http://193.161.193.99:49103/trial/zlive.php?c=ddindia 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Kisan
+http://193.161.193.99:49103/trial/zlive.php?c=ddkisan 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",9X Jalwa
+http://193.161.193.99:49103/trial/zlive.php?c=133 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Cinemalu
+http://193.161.193.99:49103/trial/zlive.php?c=zeecinemalu 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",9XM
+http://193.161.193.99:49103/trial/zlive.php?c=131 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",9X Jhakaas
+http://193.161.193.99:49103/trial/zlive.php?c=134 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Boogle Bollywood
+http://193.161.193.99:49103/trial/zlive.php?c=165 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Odia
+http://193.161.193.99:49103/trial/zlive.php?c=ddodia 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",&flix
+http://193.161.193.99:49103/trial/zlive.php?c=channel_2105335046 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",9X Tashan
+http://193.161.193.99:49103/trial/zlive.php?c=132 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Alpha ETC Punjabi
+http://193.161.193.99:49103/trial/zlive.php?c=channel_2132977507 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Shiksha TV
+http://193.161.193.99:49103/trial/zlive.php?c=163 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Sanskar TV
+http://193.161.193.99:49103/trial/zlive.php?c=channel_1144658965 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Shubh TV
+http://193.161.193.99:49103/trial/zlive.php?c=327 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Satsang TV
+http://193.161.193.99:49103/trial/zlive.php?c=channel_1565694979 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Divya TV
+http://193.161.193.99:49103/trial/zlive.php?c=divyatv 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Krishna Vani
+http://193.161.193.99:49103/trial/zlive.php?c=166 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Salaam
+http://193.161.193.99:49103/trial/zlive.php?c=zeesalaam 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee TV
+http://193.161.193.99:49103/trial/zlive.php?c=zeetv 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Makkal TV
+http://193.161.193.99:49103/trial/zlive.php?c=makkaltv 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Podhigai
+http://193.161.193.99:49103/trial/zlive.php?c=ddpodhigai 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Malayalam
+http://193.161.193.99:49103/trial/zlive.php?c=ddmalayalam 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Yadagiri
+http://193.161.193.99:49103/trial/zlive.php?c=ddyadagiri 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Bangla
+http://193.161.193.99:49103/trial/zlive.php?c=ddbangla 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Chandana
+http://193.161.193.99:49103/trial/zlive.php?c=ddchandana 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Sarthak
+http://193.161.193.99:49103/trial/zlive.php?c=sarthaktv 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Sahyadri
+http://193.161.193.99:49103/trial/zlive.php?c=ddsahyadri 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Girnar
+http://193.161.193.99:49103/trial/zlive.php?c=ddgirnar 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Urdu
+http://193.161.193.99:49103/trial/zlive.php?c=ddurdu 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Rajasthan
+http://193.161.193.99:49103/trial/zlive.php?c=ddrajasthanjaipur 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Bharati
+http://193.161.193.99:49103/trial/zlive.php?c=ddbharati 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Madhya Pradesh
+http://193.161.193.99:49103/trial/zlive.php?c=ddmadhyapradesh 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Bihar
+http://193.161.193.99:49103/trial/zlive.php?c=ddbihar 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Uttar Pradesh
+http://193.161.193.99:49103/trial/zlive.php?c=dduttarpradesh 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Hare Krsna
+http://193.161.193.99:49103/trial/zlive.php?c=183 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee News Uttar Pradesh Uttrakhand
+http://193.161.193.99:49103/trial/zlive.php?c=channel_265145625 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD Punjabi
+http://193.161.193.99:49103/trial/zlive.php?c=ddpunjabi 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",State Madhya Pradesh Chhattisgarh
+http://193.161.193.99:49103/trial/zlive.php?c=172 News 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Sports Flashes - Hindi
+http://193.161.193.99:49103/trial/zlive.php?c=185 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Classic
+http://193.161.193.99:49103/trial/zlive.php?c=176 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",The Q
+http://193.161.193.99:49103/trial/zlive.php?c=181 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Asianet News
+http://193.161.193.99:49103/trial/zlive.php?c=200 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",&xplorHD
+http://193.161.193.99:49103/trial/zlive.php?c=209 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Biskope
+http://193.161.193.99:49103/trial/zlive.php?c=216 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Puthyugam TV
+http://193.161.193.99:49103/trial/zlive.php?c=221 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Thirai
+http://193.161.193.99:49103/trial/zlive.php?c=224 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Zest HD
+http://193.161.193.99:49103/trial/zlive.php?c=348 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",News X
+http://193.161.193.99:49103/trial/zlive.php?c=273 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",India News
+http://193.161.193.99:49103/trial/zlive.php?c=272 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Picchar
+http://193.161.193.99:49103/trial/zlive.php?c=241 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",DD National HD
+http://193.161.193.99:49103/trial/zlive.php?c=250 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Sugran TV
+http://193.161.193.99:49103/trial/zlive.php?c=271 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",India News Punjabi Himachal
+http://193.161.193.99:49103/trial/zlive.php?c=274 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",India News UP
+http://193.161.193.99:49103/trial/zlive.php?c=275 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",India News Rajasthan
+http://193.161.193.99:49103/trial/zlive.php?c=276 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",India News MP
+http://193.161.193.99:49103/trial/zlive.php?c=277 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",India News Haryana
+http://193.161.193.99:49103/trial/zlive.php?c=278 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",India News Gujarat
+http://193.161.193.99:49103/trial/zlive.php?c=279 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",NE News
+http://193.161.193.99:49103/trial/zlive.php?c=280 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Sadhna TV
+http://193.161.193.99:49103/trial/zlive.php?c=284 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",IshwarTV
+http://193.161.193.99:49103/trial/zlive.php?c=285 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",ZEE5 Kids
+http://193.161.193.99:49103/trial/zlive.php?c=290 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Non-stop EDM
+http://193.161.193.99:49103/trial/zlive.php?c=296 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Local Vocal | United We Stand
+http://193.161.193.99:49103/trial/zlive.php?c=298 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Sounds of ZEE5 - Originals
+http://193.161.193.99:49103/trial/zlive.php?c=299 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Sounds of ZEE5 - Punjabi Beats
+http://193.161.193.99:49103/trial/zlive.php?c=300 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Sounds of ZEE5 - Romance
+http://193.161.193.99:49103/trial/zlive.php?c=301 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Sounds of ZEE5 - EDM
+http://193.161.193.99:49103/trial/zlive.php?c=302 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",BBC World News
+http://193.161.193.99:49103/trial/zlive.php?c=339 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Living India
+http://193.161.193.99:49103/trial/zlive.php?c=305 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Prag News
+http://193.161.193.99:49103/trial/zlive.php?c=310 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Sadhna Plus News
+http://193.161.193.99:49103/trial/zlive.php?c=313 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",VIP News
+http://193.161.193.99:49103/trial/zlive.php?c=314 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Live Today
+http://193.161.193.99:49103/trial/zlive.php?c=315 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Awakening
+http://193.161.193.99:49103/trial/zlive.php?c=316 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",TIME8
+http://193.161.193.99:49103/trial/zlive.php?c=317 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Sadhna News MP/CG
+http://193.161.193.99:49103/trial/zlive.php?c=319 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Rengoni
+http://193.161.193.99:49103/trial/zlive.php?c=322 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Next Up on ZEE5 for April 2021
+http://193.161.193.99:49103/trial/zlive.php?c=364 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Demo Moon Live
+http://193.161.193.99:49103/trial/zlive.php?c=373 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Test Channel
+http://193.161.193.99:49103/trial/zlive.php?c=381 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Ptunes
+http://193.161.193.99:49103/trial/zlive.php?c=344 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Ek Onkar
+http://193.161.193.99:49103/trial/zlive.php?c=345 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Uday News
+http://193.161.193.99:49103/trial/zlive.php?c=346 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Zee Vajwa
+http://193.161.193.99:49103/trial/zlive.php?c=353 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Bharat Samachar
+http://193.161.193.99:49103/trial/zlive.php?c=354 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",ABN Andhra Jyothy
+http://193.161.193.99:49103/trial/zlive.php?c=355 
+.#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",News First
+http://193.161.193.99:49103/trial/zlive.php?c=356 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",10TV
+http://193.161.193.99:49103/trial/zlive.php?c=371 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",NTV
+http://193.161.193.99:49103/trial/zlive.php?c=372 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",LIVE Event
+http://193.161.193.99:49103/trial/zlive.php?c=374 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Haryanvi Hits
+http://193.161.193.99:49103/trial/zlive.php?c=375 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",Wah Punjabi
+http://193.161.193.99:49103/trial/zlive.php?c=376 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",BTV
+http://193.161.193.99:49103/trial/zlive.php?c=377 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5 LIVE",TV9 Bangla
+http://193.161.193.99:49103/trial/zlive.php?c=378 
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/14020/500x750_SunTVHD_14020_6c8b0d77-dfb1-4456-8af8-6b219c28885d.jpg" group-title="SUNNXT-LIVE",SUN TV HD
+http://193.161.193.99:49103/trial/sun.php?c=14020
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/38926/500x750_SunNews_38926_d9234353-be56-4e69-8bbd-c3b15378e7cb.jpg" group-title="SUNNXT-LIVE",SUN NEWS
+http://193.161.193.99:49103/trial/sun.php?c=38926
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26566/500x750_KTVHD_26566_3f1d6cd3-6142-43b8-b78c-860477a91b90.jpg" group-title="SUNNXT-LIVE",KTV HD
+http://193.161.193.99:49103/trial/sun.php?c=26566
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9013/500x750_SunMusicHD_9013_a1f6d6ac-015b-4e0f-b756-bc331824e590.jpg" group-title="SUNNXT-LIVE",SUN MUSIC HD
+http://193.161.193.99:49103/trial/sun.php?c=9013
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26569/500x750_SunLife_26569_b149631f-04c2-41f5-bb30-c23d0127336b.jpg" group-title="SUNNXT-LIVE",SUN LIFE
+http://193.161.193.99:49103/trial/sun.php?c=26569
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9023/500x750_AdithyaTV_9023_8d1754a9-b044-4782-9bf6-f8eec1c7a165.jpg" group-title="SUNNXT-LIVE",ADITHYA TV
+http://193.161.193.99:49103/trial/sun.php?c=9023
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26567/500x750_ChuttiTV_26567_f5c8f413-9a9c-4e75-ab9c-ae52e44230bf.jpg" group-title="SUNNXT-LIVE",CHUTTI TV
+http://193.161.193.99:49103/trial/sun.php?c=26567
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9016/500x750_SunTV_9016_2f6432cf-c588-4fe3-a7d8-76ca4abe64b4.jpg" group-title="SUNNXT-LIVE",SUN TV
+http://193.161.193.99:49103/trial/sun.php?c=9016
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/32138/500x750_KTV_32138_d242116d-02e1-44d3-ae76-0e2096c8667d.jpg" group-title="SUNNXT-LIVE",KTV
+http://193.161.193.99:49103/trial/sun.php?c=32138
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9025/500x750_SunMusic_9025_ce616d71-a7be-4895-9c88-26f6fb8e796f.jpg" group-title="SUNNXT-LIVE",SUN MUSIC
+http://193.161.193.99:49103/trial/sun.php?c=9025
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/14019/500x750_GeminiTVHD_14019_5fa8aaf5-5e27-464c-872c-7e1bf293cf93.jpg" group-title="SUNNXT-LIVE",GEMINI TV HD
+http://193.161.193.99:49103/trial/sun.php?c=14019
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26570/500x750_GeminiMoviesHD_26570_743fe85a-9e51-4507-b702-c63590daa3d2.jpg" group-title="SUNNXT-LIVE",GEMINI MOVIES HD
+http://193.161.193.99:49103/trial/sun.php?c=26570
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26568/500x750_GeminiMusicHD_26568_cbcdc74e-84c6-45a0-b5ed-a5c0059464e1.jpg" group-title="SUNNXT-LIVE",GEMINI MUSIC HD
+http://193.161.193.99:49103/trial/sun.php?c=26568
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9027/500x750_GeminiComedy_9027_d7c77356-6721-41c4-825a-8755000b40db.jpg" group-title="SUNNXT-LIVE",GEMINI COMEDY
+http://193.161.193.99:49103/trial/sun.php?c=9027
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26572/500x750_GeminiLife_26572_5e588a65-6d80-4abe-a788-dd8e43f5fe14.jpg" group-title="SUNNXT-LIVE",GEMINI LIFE
+http://193.161.193.99:49103/trial/sun.php?c=26572
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26571/500x750_KushiTV_26571_6a972e5a-f624-4e0e-ac68-1689dab237db.jpg" group-title="SUNNXT-LIVE",KUSHI TV
+http://193.161.193.99:49103/trial/sun.php?c=26571
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9017/500x750_GeminiTV_9017_4f62fbf5-46da-4d56-8998-0c2deb3b3797.jpg" group-title="SUNNXT-LIVE",GEMINI TV
+http://193.161.193.99:49103/trial/sun.php?c=9017
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9015/500x750_GeminiMovies_9015_59935728-bfc4-4dd1-ba3e-3f4c50c49bc6.jpg" group-title="SUNNXT-LIVE",GEMINI MOVIES
+http://193.161.193.99:49103/trial/sun.php?c=9015
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9026/500x750_GeminiMusic_9026_ca0989a9-1c19-4bf7-a9a0-fcd7a85f13f7.jpg" group-title="SUNNXT-LIVE",GEMINI MUSIC
+http://193.161.193.99:49103/trial/sun.php?c=9026
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26574/500x750_SuryaTVHD_26574_432e86f2-b88c-4244-921d-25fabf02be77.jpg" group-title="SUNNXT-LIVE",SURYA TV HD
+http://193.161.193.99:49103/trial/sun.php?c=26574
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9019/500x750_SuryaMovies_9019_5ec863e8-1c9e-4d68-9586-eea3d54869c3.jpg" group-title="SUNNXT-LIVE",SURYA MOVIES
+http://193.161.193.99:49103/trial/sun.php?c=9019
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26575/500x750_SuryaMusic_26575_cc1fcfcf-7931-4b87-9ef7-1f74e60d00f7.jpg" group-title="SUNNXT-LIVE",SURYA MUSIC
+http://193.161.193.99:49103/trial/sun.php?c=26575
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/30835/500x750_SuryaComedy_30835_4e038a42-fb24-467e-a388-4fd9ec1b108d.jpg" group-title="SUNNXT-LIVE",SURYA COMEDY
+http://193.161.193.99:49103/trial/sun.php?c=30835
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26573/500x750_KochuTV_26573_b37e2b98-bc82-40b5-8e4d-e1a451d7411f.jpg" group-title="SUNNXT-LIVE",KOCHU TV
+http://193.161.193.99:49103/trial/sun.php?c=26573
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9018/500x750_SuryaTV_9018_c8f09032-8b77-4cb7-98e6-6ecd2ed61aa1.jpg" group-title="SUNNXT-LIVE",SURYA YV
+http://193.161.193.99:49103/trial/sun.php?c=9018
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/30846/500x750_UdayaTVHD_30846_5192365f-e16e-41b0-9b55-cd371ca41318.jpg" group-title="SUNNXT-LIVE",UDAYA TV HD
+http://193.161.193.99:49103/trial/sun.php?c=30846
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26576/500x750_UdayaMovies_26576_3f01331f-a95e-444d-b25e-d386182b5d8c.jpg" group-title="SUNNXT-LIVE",UDAYA MOVIES
+http://193.161.193.99:49103/trial/sun.php?c=26576
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9022/500x750_UdayaMusic_9022_e8012abd-c6b2-417c-8d3b-9f72167dab62.jpg" group-title="SUNNXT-LIVE",UDAYA MUSIC
+http://193.161.193.99:49103/trial/sun.php?c=9022
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9014/500x750_UdayaComedy_9014_53e7de60-92f7-4e4c-bc84-01ca4becf6cc.jpg" group-title="SUNNXT-LIVE",UDAYA COMEDY
+http://193.161.193.99:49103/trial/sun.php?c=9014
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26577/500x750_ChintuTV_26577_a6c3b102-c153-4752-bf8b-3699496028e6.jpg" group-title="SUNNXT-LIVE",CHINTU TV
+http://193.161.193.99:49103/trial/sun.php?c=26577
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9029/500x750_UdayaTV_9029_f4558ad3-730e-4d51-b2b1-4620bf69adac.jpg" group-title="SUNNXT-LIVE",UDAYA TV
+http://193.161.193.99:49103/trial/sun.php?c=9029
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/75117/500x750_SunBangla_75117_19765610-bfa4-4280-8a98-e28feddb3382.jpg" group-title="SUNNXT-LIVE",SUN BANGLA
+http://193.161.193.99:49103/trial/sun.php?c=75117
+
+
+
+
+
